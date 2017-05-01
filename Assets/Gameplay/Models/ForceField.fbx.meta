@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 8658d6a2d87c7894ba9cb291f22af38b
+timeCreated: 1485435176
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Camera
+    100004: Container
+    100006: Crate
+    100008: Crate 2
+    100010: Cross Pylon
+    100012: Cube
+    100014: Cylinder
+    100016: Floor 1
+    100018: Floor 2
+    100020: Floor 3
+    100022: Floor 4
+    100024: Floor Place
+    100026: Floor With Hole
+    100028: //RootNode
+    100030: Lamp 1
+    100032: NPC Enemy 1
+    100034: NPC Enemy 2
+    100036: NPC Enemy 3
+    100038: NPC Player
+    100040: Panel Corner
+    100042: Panel Corner Rounded
+    100044: Panel Portal
+    100046: Panel Wall
+    100048: Plane
+    100050: Plane.001
+    100052: Pylon
+    100054: Steel Beam
+    100056: Steel Pylon
+    100058: Sun
+    100060: Tube
+    100062: Wall Corner
+    100064: Wall I Straight
+    100066: Wall Portal
+    100068: Weapon Bazooka
+    100070: Weapon Machinegun
+    100072: Weapon Pistol
+    100074: Weapon Shotgun
+    400000: Bridge
+    400002: Camera
+    400004: Container
+    400006: Crate
+    400008: Crate 2
+    400010: Cross Pylon
+    400012: Cube
+    400014: Cylinder
+    400016: Floor 1
+    400018: Floor 2
+    400020: Floor 3
+    400022: Floor 4
+    400024: Floor Place
+    400026: Floor With Hole
+    400028: //RootNode
+    400030: Lamp 1
+    400032: NPC Enemy 1
+    400034: NPC Enemy 2
+    400036: NPC Enemy 3
+    400038: NPC Player
+    400040: Panel Corner
+    400042: Panel Corner Rounded
+    400044: Panel Portal
+    400046: Panel Wall
+    400048: Plane
+    400050: Plane.001
+    400052: Pylon
+    400054: Steel Beam
+    400056: Steel Pylon
+    400058: Sun
+    400060: Tube
+    400062: Wall Corner
+    400064: Wall I Straight
+    400066: Wall Portal
+    400068: Weapon Bazooka
+    400070: Weapon Machinegun
+    400072: Weapon Pistol
+    400074: Weapon Shotgun
+    2300000: Bridge
+    2300002: Container
+    2300004: Crate
+    2300006: Crate 2
+    2300008: Cross Pylon
+    2300010: Cube
+    2300012: Cylinder
+    2300014: Floor 1
+    2300016: Floor 2
+    2300018: Floor 3
+    2300020: Floor 4
+    2300022: Floor Place
+    2300024: Floor With Hole
+    2300026: Lamp 1
+    2300028: NPC Enemy 1
+    2300030: NPC Enemy 2
+    2300032: NPC Enemy 3
+    2300034: NPC Player
+    2300036: Panel Corner
+    2300038: Panel Corner Rounded
+    2300040: Panel Portal
+    2300042: Panel Wall
+    2300044: Plane
+    2300046: Plane.001
+    2300048: Pylon
+    2300050: Steel Beam
+    2300052: Steel Pylon
+    2300054: Tube
+    2300056: Wall Corner
+    2300058: Wall I Straight
+    2300060: Wall Portal
+    2300062: Weapon Bazooka
+    2300064: Weapon Machinegun
+    2300066: Weapon Pistol
+    2300068: Weapon Shotgun
+    2300070: //RootNode
+    3300000: Bridge
+    3300002: Container
+    3300004: Crate
+    3300006: Crate 2
+    3300008: Cross Pylon
+    3300010: Cube
+    3300012: Cylinder
+    3300014: Floor 1
+    3300016: Floor 2
+    3300018: Floor 3
+    3300020: Floor 4
+    3300022: Floor Place
+    3300024: Floor With Hole
+    3300026: Lamp 1
+    3300028: NPC Enemy 1
+    3300030: NPC Enemy 2
+    3300032: NPC Enemy 3
+    3300034: NPC Player
+    3300036: Panel Corner
+    3300038: Panel Corner Rounded
+    3300040: Panel Portal
+    3300042: Panel Wall
+    3300044: Plane
+    3300046: Plane.001
+    3300048: Pylon
+    3300050: Steel Beam
+    3300052: Steel Pylon
+    3300054: Tube
+    3300056: Wall Corner
+    3300058: Wall I Straight
+    3300060: Wall Portal
+    3300062: Weapon Bazooka
+    3300064: Weapon Machinegun
+    3300066: Weapon Pistol
+    3300068: Weapon Shotgun
+    3300070: //RootNode
+    4300000: Cylinder
+    4300002: Plane.001
+    4300004: Plane
+    4300006: Cube
+    4300008: Panel Portal
+    4300010: Panel Wall
+    4300012: Panel Corner
+    4300014: Panel Corner Rounded
+    4300016: Lamp 1
+    4300018: NPC Enemy 3
+    4300020: NPC Enemy 2
+    4300022: NPC Enemy 1
+    4300024: NPC Player
+    4300026: Floor 4
+    4300028: Crate 2
+    4300030: Floor Place
+    4300032: Steel Beam
+    4300034: Weapon Bazooka
+    4300036: Weapon Machinegun
+    4300038: Weapon Shotgun
+    4300040: Weapon Pistol
+    4300042: Container
+    4300044: Steel Pylon
+    4300046: Pylon
+    4300048: Bridge
+    4300050: Floor With Hole
+    4300052: Tube
+    4300054: Wall Portal
+    4300056: Crate
+    4300058: Floor 3
+    4300060: Cross Pylon
+    4300062: Floor 2
+    4300064: Wall Corner
+    4300066: Wall I Straight
+    4300068: Floor 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
