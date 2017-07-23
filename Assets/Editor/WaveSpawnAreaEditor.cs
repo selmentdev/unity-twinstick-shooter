@@ -21,7 +21,7 @@ namespace TestGame.Assets
             }
 
             //Handles.CylinderCap(0, area.transform.position, Quaternion.identity, area.Radius);
-            Handles.CircleCap(0, area.transform.position, Quaternion.AngleAxis(90.0F, Vector3.right), area.Radius);
+            Handles.CircleHandleCap(0, area.transform.position, Quaternion.AngleAxis(90.0F, Vector3.right), area.Radius, EventType.Ignore);
         }
     }
 }

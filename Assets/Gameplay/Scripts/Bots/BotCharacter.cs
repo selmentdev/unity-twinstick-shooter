@@ -59,7 +59,7 @@ namespace TestGame.Bots
             //
             // Bot stops moving when dies.
             //
-            this.Controller.NavMeshAgent.Stop();
+            this.Controller.NavMeshAgent.isStopped = true;
 
             //
             // Remove bot's gun.
@@ -77,7 +77,7 @@ namespace TestGame.Bots
             GameObject.Destroy(this.Controller);
             GameObject.Destroy(this.gameObject, 5.0F);
         }
-        
+
         private void Update()
         {
             this.HitAndRunTimer += Time.deltaTime;

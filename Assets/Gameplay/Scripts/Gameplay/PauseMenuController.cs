@@ -30,14 +30,14 @@ namespace TestGame.Gameplay
         {
             Time.timeScale = 1.0F;
             this.SaveHighScore();
-            SceneManager.LoadScene("Gameplay/World");
+            SceneManager.LoadScene("Gameplay/Scenes/World");
         }
 
         public void ExitGame()
         {
             Time.timeScale = 1.0F;
             this.SaveHighScore();
-            SceneManager.LoadScene("Menu/MainMenu");
+            SceneManager.LoadScene("Menu/Scenes/MainMenu");
         }
 
         private void SaveHighScore()

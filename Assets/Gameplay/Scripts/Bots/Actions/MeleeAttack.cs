@@ -65,7 +65,7 @@ namespace TestGame.Bots.Actions
             // Get close to target as much as possible.
             //
             agent.SetDestination(targetPosition);
-            agent.Resume();
+            agent.isStopped = false;
         }
     }
 }

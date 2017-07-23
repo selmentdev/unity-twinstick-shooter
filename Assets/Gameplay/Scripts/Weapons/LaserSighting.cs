@@ -25,7 +25,7 @@ namespace TestGame.Weapons
             // Captures and initializes line renderer.
             //
             this.m_LineRenderer = this.GetComponent<LineRenderer>();
-            this.m_LineRenderer.numPositions = 2;
+            this.m_LineRenderer.positionCount = 2;
         }
 
         private void Update()

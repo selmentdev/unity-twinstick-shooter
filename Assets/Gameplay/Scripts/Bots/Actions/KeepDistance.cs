@@ -71,7 +71,7 @@ namespace TestGame.Bots.Actions
                 // Resume path at destination.
                 //
                 agent.SetDestination(destination);
-                agent.Resume();
+                agent.isStopped = false;
 
                 Debug.DrawLine(bot.transform.position, destination, Color.red);
             }

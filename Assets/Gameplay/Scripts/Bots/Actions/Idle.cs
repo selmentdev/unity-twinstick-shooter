@@ -35,7 +35,7 @@ namespace TestGame.Bots.Actions
             //
             var agent = bot.Controller.NavMeshAgent;
             agent.SetDestination(destination);
-            agent.Resume();
+            agent.isStopped = false;
         }
     }
 }

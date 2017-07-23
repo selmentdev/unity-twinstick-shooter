@@ -28,7 +28,7 @@ namespace TestGame.Bots.Actions
             //
             agent.SetDestination(targetPosition);
             agent.autoBraking = true;
-            agent.Resume();
+            agent.isStopped = false;
         }
     }
 }
